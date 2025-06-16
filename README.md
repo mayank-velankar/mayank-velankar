@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayank-velankar
-- 👀 I’m interested in Backend Development and Rails development
+- 👀 SDE -2 @ games24x7
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on opensource and Bugfixing for Products
 - 📫 How to reach me 
