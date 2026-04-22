@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mayank-velankar
-- 👀 SDE -2 @ games24x7
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on opensource and Bugfixing for Products
+- 👀 Senior Software Engineer @ Jiohotstar
+- 🌱 I’m currently learning AI workflows to automate repetitive tasks.
+- 💞️ I’m looking to collaborate on open source and Bugfixing for Products
 - 📫 How to reach me 
-You can reach me on mayank1158336@gmail.com
+You can reach me on velankarmayank029@gmail.com
 
 <!---
 mayank-velankar/mayank-velankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
